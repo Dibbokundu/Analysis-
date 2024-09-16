@@ -1,2 +1,1 @@
-# Project
-Stock market analysis .
+
